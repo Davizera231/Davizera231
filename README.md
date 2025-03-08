@@ -1,4 +1,7 @@
-## Olá, me chamo Davi Sandes Teixeira, sou estudante de Engenharia de Software👋
+## Olá, me chamo Davi Sandes Teixeira👋
+
+- 🌱 Graduando Engenharia de Software
+
 
 
 <div><br><br><br><br>
@@ -16,6 +19,15 @@
 <img align="center" alt="Davi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Davi-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
+
+##
+
+<div><br><br><br> 
+  <a href = "mailto:Davi.Sandes.Teixeira@outlook.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/davi-sandes-teixeira-43218b204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
 
 <!--
 **Davizera231/Davizera231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
